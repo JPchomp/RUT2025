@@ -1,6 +1,6 @@
 ## RECODING URBAN TRANSPORTATION 2025
 
-A regional Public Goods Initiative from the Inter-American Development Bank seeking to promote growth through digitization
+A regional Public Goods Initiative from the Inter-American Development Bank seeking to promote economic growth through urban mobility digitization
 
 ### Why this initiative?
 
